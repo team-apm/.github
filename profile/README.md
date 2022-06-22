@@ -1,8 +1,13 @@
 ## We're Team apm! 🍎
 
-You can download "AviUtl Package Manager" from below!!
+You can download "AviUtl Package Manager" below!!
 
 ### https://team-apm.github.io/apm/
+
+## apm package data
+
+- If you have any packages you want to add to data, please create an issue on [**apm-data**](https://github.com/team-apm/apm-data).
+- You can also use [**apm-web**](https://team-apm.github.io/apm-web/) to make and send package data.
 
 <!--
 
